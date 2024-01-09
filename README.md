@@ -11,5 +11,5 @@ The Company has been running several marketing campaigns and my role is provide 
 The data used in the analysis is from Steel data SQL challenge 6 which can be found [here](https://www.steeldata.org.uk/sql6.html) The data is provided in the link above by running an SQL code to create a schema.
 There are three tables named sustainable clothing, transactions and marketing campaigns.
 
-![alt text](http://url/to/img.png)
+![alt text](steel challenge 6.PNG)
 
