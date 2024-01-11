@@ -14,3 +14,11 @@ There are three tables named sustainable clothing, transactions and marketing ca
 
 ![alt text](steelchallenge6.PNG)
 
+### Tools
+**MySQL** - for analysis of the data
+
+**Power Bi** - for data visualization
+
+### Data Analysis
+
+The 
