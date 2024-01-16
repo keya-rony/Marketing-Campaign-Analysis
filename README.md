@@ -53,4 +53,7 @@ inner join
 transactions t on mc.product_id = t.product_id
 Group by
 campaign_name;
+
 ```
+
+![alt text](Steel1.PNG)
