@@ -41,7 +41,7 @@ The Problem statements are provided in the website above alongside the database 
 
 ### How many transactions were completed during each marketing campaign?
 
-````SQL
+```SQL
 -- Number of Transactions completed during each marketing campaign
 
 select 
@@ -52,8 +52,9 @@ marketing_campaigns mc
 inner join 
 transactions t on mc.product_id = t.product_id
 Group by
-campaign_name;
-
+campaign_name
+;
 ```
 
 ![alt text](Steel1.PNG)
+
