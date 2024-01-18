@@ -58,3 +58,25 @@ campaign_name
 
 ![alt text](Steel1.PNG)
 
+Summer Sale campaign had the most number of transactions.
+
+
+### Which product had the highest sales quantity?
+
+```SQL
+Select 
+s.product_name,
+sum(t.quantity)	as Total_Qty
+from 
+transactions t
+Left join 
+sustainable_clothing s on t.product_id = s.product_id
+group by 
+product_name
+order by sum(t.quantity) Desc 
+Limit 1;
+```
+
+![alt text](Steel2.PNG)
+
+Organic Cotton Sweater had the highest sales quantity.
