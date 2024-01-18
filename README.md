@@ -3,7 +3,7 @@ An Analysis of Marketing Campaigns to Obtain Insights of whether they have been 
 
 ### Background
 
-In this project I will be stepping in the shoes of a Marketing Analyst for a fictional company called Sustainable Clothing Co.
+In this project I will be stepping into shoes of a Marketing Analyst for a fictional company called Sustainable Clothing Co.
 
 The Company has been running several marketing campaigns and my role is provide Insights on whether these campaigns have been succusseful or not.
 
