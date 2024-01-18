@@ -302,4 +302,4 @@ This concludes SQL-Steel Data Marketing Analysis challenge based on the ten anal
 Below is a snapshot of the Power Bi visualizations for some of the KPI in the above findings.
 
 
-![alt text](Steel10.PNG)
+![alt text](SteelVisual.PNG)
